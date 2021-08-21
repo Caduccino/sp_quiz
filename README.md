@@ -1,16 +1,16 @@
 # SP QUIZ
 
 ### O QUE É?
-Meu projeto é um Quiz com perguntas relacionadas à São Paulo, cidade onde nasci e vivo até hoje!
+• Meu projeto é um Quiz com perguntas relacionadas à São Paulo, cidade onde nasci e vivo até hoje!
 
 ### WHAT IS IT?
-My project is a Quiz with questions related to São Paulo, the city where I was born and live today!
+• My project is a Quiz with questions related to São Paulo, the city where I was born and live today!
 
 ### A QUEM SE DESTINA - OBJETIVO 
-Este projeto se destina a todos que querem testar os seus conhecimentos sobre São Paulo.
+• Este projeto se destina a todos que querem testar os seus conhecimentos sobre São Paulo.
 
 ### TO WHOM IS THE GAME - OBJECTIVE
-This project is aimed at everyone who wants to test their knowledge of São Paulo.
+• This project is aimed at everyone who wants to test their knowledge of São Paulo.
 
 ### INSTALAÇÃO LOCAL
 
@@ -37,23 +37,23 @@ This project is aimed at everyone who wants to test their knowledge of São Paul
 
 ### BIBLIOTECAS DO PROJETO
 
-* Jogo feito usando HTML, CSS e JavaScript
+• Jogo feito usando HTML, CSS e JavaScript
 
 ### LIBRARY OF THE PROJECT
-* Game made using HTML, CSS e JavaScript
+• Game made using HTML, CSS e JavaScript
 
 ----------------------------
 
 #### SE VOCÊ CHEGOU ATÉ AQUI
-Muito obrigado pela atenção!!
+• Muito obrigado pela atenção!!
 
 ### IF YOU GOT HERE
-Thank you very much for you atencion!! 
+• Thank you very much for you atencion!! 
 
 #### SOBRE O AUTOR
-Carlos Eduardo Amaral Falcão Daniel
-Caso tenha alguma dúvida ou sugestão me contate através do e-mail: caduccino@live.com
+• Carlos Eduardo Amaral Falcão Daniel
+• Caso tenha alguma dúvida ou sugestão me contate através do e-mail: caduccino@live.com
 
 ### ABOUT THE AUTHOR
-Carlos Eduardo Amaral Falcão Daniel
-If you have any questions or suggestions please contact me via e-mail: caduccino@live.com
+• Carlos Eduardo Amaral Falcão Daniel
+• If you have any questions or suggestions please contact me via e-mail: caduccino@live.com
