@@ -6,7 +6,7 @@ Meu projeto é um Quiz com perguntas relacionadas à São Paulo, cidade onde nas
 ### WHAT IS IT?
 My project is a Quiz with questions related to São Paulo, the city where I was born and live today!
 
-### A QUEM SE DESTINA - OBJETIVO /  
+### A QUEM SE DESTINA - OBJETIVO 
 Este projeto se destina a todos que querem testar os seus conhecimentos sobre São Paulo.
 
 ### TO WHOM IS THE GAME - OBJECTIVE
