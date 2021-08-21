@@ -52,8 +52,10 @@
 
 #### SOBRE O AUTOR
 • Carlos Eduardo Amaral Falcão Daniel
+
 • Caso tenha alguma dúvida ou sugestão me contate através do e-mail: caduccino@live.com
 
 ### ABOUT THE AUTHOR
 • Carlos Eduardo Amaral Falcão Daniel
+
 • If you have any questions or suggestions please contact me via e-mail: caduccino@live.com
