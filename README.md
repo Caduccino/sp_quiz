@@ -44,13 +44,13 @@
 
 ----------------------------
 
-#### SE VOCÊ CHEGOU ATÉ AQUI
+### SE VOCÊ CHEGOU ATÉ AQUI
 • Muito obrigado pela atenção!!
 
 ### IF YOU GOT HERE
 • Thank you very much for you attention!! 
 
-#### SOBRE O AUTOR
+### SOBRE O AUTOR
 • Carlos Eduardo Amaral Falcão Daniel
 
 • Caso tenha alguma dúvida ou sugestão me contate através do e-mail: caduccino@live.com
