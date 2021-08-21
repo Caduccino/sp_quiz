@@ -11,7 +11,7 @@ let questions = [
     },
     {
         question: 'What is the oldest museum in the city, founded in December 24, 1905?',
-        answer: 'Museu de Arte de São Paulo Assis Chateaubriand',
+        answer: 'Pinacoteca de São Paulo',
         options: [
             'Museu de Arte de São Paulo Assis Chateaubriand',
             'Pinacoteca de São Paulo',
@@ -77,6 +77,26 @@ let questions = [
             '683.000',
             '572.000',
             '384.000',
+        ]
+    },
+    {
+        question: 'Approximately how many people live in São Paulo today(2021)?',
+        answer: '12.325.232',
+        options: [
+            '15.728.356',
+            '13.138.921',
+            '12.325.232',
+            '14.756.013',
+        ]
+    },
+    {
+        question: 'When was founded the Municipal Theater of São Paulo?',
+        answer: '1911',
+        options: [
+            '1915',
+            '1911',
+            '1917',
+            '1921',
         ]
     },
 ];
