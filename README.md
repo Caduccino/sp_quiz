@@ -48,7 +48,7 @@
 • Muito obrigado pela atenção!!
 
 ### IF YOU GOT HERE
-• Thank you very much for you atencion!! 
+• Thank you very much for you attention!! 
 
 #### SOBRE O AUTOR
 • Carlos Eduardo Amaral Falcão Daniel
